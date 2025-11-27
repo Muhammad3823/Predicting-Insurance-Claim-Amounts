@@ -35,7 +35,7 @@ MAE (Mean Absolute Error)
 
 RMSE (Root Mean Squared Error)
 
-Results & Insights
+**Results & Insights**
 
 Linear Regression successfully predicted insurance charges based on provided features.
 
